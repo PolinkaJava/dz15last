@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f91f0c8-e0a2-4f6e-a338-91607068f8d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz15last.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/task4/Storage.java" afterDir="false" />
+    <list default="true" id="0f91f0c8-e0a2-4f6e-a338-91607068f8d9" name="Changes" comment="лшнплш">
+      <change afterPath="$PROJECT_DIR$/src/NewCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CustomCollection.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MyCollection.executor": "Run",
+    "Application.NewCollection.executor": "Run",
     "Application.Storage.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,6 +54,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yahor\IdeaProjects\dz15last\src" />
+      <recent name="C:\Users\Yahor\IdeaProjects\dz15last" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="task4" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,11 +78,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704712117186</updated>
-      <workItem from="1704712118155" duration="2501000" />
+      <workItem from="1704712118155" duration="6004000" />
     </task>
+    <task id="LOCAL-00001" summary="все гуд">
+      <option name="closed" value="true" />
+      <created>1704715421354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704715421356</updated>
+    </task>
+    <task id="LOCAL-00002" summary="лшнплш">
+      <option name="closed" value="true" />
+      <created>1704715550557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704715550557</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="все гуд" />
+    <MESSAGE value="лшнплш" />
+    <option name="LAST_COMMIT_MESSAGE" value="лшнплш" />
   </component>
 </project>
